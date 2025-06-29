@@ -1,4 +1,4 @@
-# Freelance & TripleTen_projects
+# Freelance & TripleTen projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
